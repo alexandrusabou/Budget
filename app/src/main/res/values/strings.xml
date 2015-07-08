@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Budget</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="spinner_title">Spinner</string>
+
+    <string name="nav_item_chelt">Cheltuieli zilnice</string>
+    <string name="nav_item_incas">Incasari</string>
+    <string name="nav_item_plan">Planificare buget</string>
+    <string name="nav_item_cont">Conturi</string>
+    <string name="nav_item_buget">Configurare bugete</string>
+    <string name="nav_item_rap1">Rapoarte</string>
+    <string name="nav_item_rap2">Rapoarte 2</string>
+    <string name="nav_item_calc">Calculator</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_chelt</item>
+        <item>@string/nav_item_incas</item>
+        <item>@string/nav_item_plan</item>
+        <item>@string/nav_item_cont</item>
+        <item>@string/nav_item_buget</item>
+        <item>@string/nav_item_rap1</item>
+        <item>@string/nav_item_rap2</item>
+        <item>@string/nav_item_calc</item>
+
+    </string-array>
+
+    <string name="title_chelt">Cheltuieli zilnice</string>
+    <string name="title_incas">Intrari</string>
+    <string name="title_plan">Planificare buget</string>
+    <string name="title_cont">Conturi</string>
+    <string name="title_buget">Configurare buget</string>
+    <string name="title_rap1">Rapoarte</string>
+    <string name="title_rap2">Rapoarte2</string>
+    <string name="title_calc">Calculator</string>
+</resources>
